@@ -2,6 +2,7 @@
   titulo: string;
   texto: string
 }
+
 function Home(props: homeprops ) {
   return (
     <div>
